@@ -1,0 +1,115 @@
+{
+  "n": 113,
+  "conf_mean": {
+    "wrong": 0.61663339734509,
+    "correct": 0.8425048046772424
+  },
+  "tau_curve": [
+    {
+      "tau": 0.0,
+      "review_rate": 0.0,
+      "workflow_acc": 0.831858407079646,
+      "auto_acc": 0.831858407079646,
+      "rescued": 0,
+      "hurt": 0
+    },
+    {
+      "tau": 0.3,
+      "review_rate": 0.0,
+      "workflow_acc": 0.831858407079646,
+      "auto_acc": 0.831858407079646,
+      "rescued": 0,
+      "hurt": 0
+    },
+    {
+      "tau": 0.4,
+      "review_rate": 0.0,
+      "workflow_acc": 0.831858407079646,
+      "auto_acc": 0.831858407079646,
+      "rescued": 0,
+      "hurt": 0
+    },
+    {
+      "tau": 0.5,
+      "review_rate": 0.04424778761061947,
+      "workflow_acc": 0.8495575221238938,
+      "auto_acc": 0.831858407079646,
+      "rescued": 2,
+      "hurt": 0
+    },
+    {
+      "tau": 0.6,
+      "review_rate": 0.168141592920354,
+      "workflow_acc": 0.8672566371681416,
+      "auto_acc": 0.831858407079646,
+      "rescued": 6,
+      "hurt": 2
+    },
+    {
+      "tau": 0.7,
+      "review_rate": 0.3008849557522124,
+      "workflow_acc": 0.8672566371681416,
+      "auto_acc": 0.831858407079646,
+      "rescued": 7,
+      "hurt": 3
+    },
+    {
+      "tau": 0.75,
+      "review_rate": 0.34513274336283184,
+      "workflow_acc": 0.8672566371681416,
+      "auto_acc": 0.831858407079646,
+      "rescued": 7,
+      "hurt": 3
+    },
+    {
+      "tau": 0.8,
+      "review_rate": 0.4247787610619469,
+      "workflow_acc": 0.8761061946902655,
+      "auto_acc": 0.831858407079646,
+      "rescued": 8,
+      "hurt": 3
+    },
+    {
+      "tau": 0.85,
+      "review_rate": 0.4690265486725664,
+      "workflow_acc": 0.8761061946902655,
+      "auto_acc": 0.831858407079646,
+      "rescued": 8,
+      "hurt": 3
+    },
+    {
+      "tau": 0.9,
+      "review_rate": 0.5929203539823009,
+      "workflow_acc": 0.8849557522123894,
+      "auto_acc": 0.831858407079646,
+      "rescued": 9,
+      "hurt": 3
+    },
+    {
+      "tau": 0.95,
+      "review_rate": 0.7433628318584071,
+      "workflow_acc": 0.8849557522123894,
+      "auto_acc": 0.831858407079646,
+      "rescued": 9,
+      "hurt": 3
+    }
+  ],
+  "best": {
+    "tau": 0.9,
+    "review_rate": 0.5929203539823009,
+    "workflow_acc": 0.8849557522123894,
+    "auto_acc": 0.831858407079646,
+    "rescued": 9,
+    "hurt": 3
+  },
+  "tau60": {
+    "tau": 0.6,
+    "review_rate": 0.168141592920354,
+    "workflow_acc": 0.8672566371681416,
+    "auto_acc": 0.831858407079646,
+    "rescued": 6,
+    "hurt": 2
+  },
+  "gt_acc": 0.8849557522123894,
+  "auto_acc": 0.831858407079646
+}

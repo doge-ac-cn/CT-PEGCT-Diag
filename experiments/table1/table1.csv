@@ -1,0 +1,5 @@
+Category,N,Female_n,Male_n,Age_mean_months,Age_sd_months,Age_median_months,Age_range,Train_n,Test_n,Top3_locations
+MT,415,307,108,55.2,51.9,38.0,0-178,290,125,"Ovary 172, Retroperitoneum 85, Testis 68"
+IT,106,66,40,28.1,44.5,5.05,0-168,74,32,"Retroperitoneum 45, Ovary 19, Testis 17"
+MGCT,121,51,70,37.5,44.1,17.0,0-168,85,36,"Testis 56, Sacrococcyx 26, Ovary 23"
+All,642,424,218,47.4,50.4,24.0,0-178,449,193,"Ovary, Mediastinum, Retroperitoneum"

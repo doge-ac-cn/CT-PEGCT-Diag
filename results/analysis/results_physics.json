@@ -1,0 +1,27 @@
+{
+  "radiomics_only": {
+    "acc": 0.8756476683937824,
+    "auc": 0.9499499649978457
+  },
+  "radiomics_plus_physics": {
+    "acc": 0.8704663212435233,
+    "auc": 0.9529080432166713
+  },
+  "physics_only": {
+    "acc": 0.8341968911917098,
+    "auc": 0.8978178952371128
+  },
+  "physics_cols": [
+    "fat_fraction",
+    "calc_fraction",
+    "solid_fraction",
+    "hu_mean",
+    "hu_median",
+    "hu_std",
+    "hu_p5",
+    "hu_p95",
+    "hu_skew",
+    "hu_kurt",
+    "n_voxels"
+  ]
+}

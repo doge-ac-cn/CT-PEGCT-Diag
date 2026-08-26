@@ -1,0 +1,33 @@
+{
+  "n_train": 448,
+  "n_test": 193,
+  "n_features_after_filter": 669,
+  "best_params": {
+    "svm__C": 10,
+    "svm__gamma": 0.001
+  },
+  "cv_auc": 0.9183978635132479,
+  "test_acc": 0.8497409326424871,
+  "test_auc_ovr": 0.9413660832098002,
+  "confusion_matrix": [
+    [
+      109,
+      12,
+      4
+    ],
+    [
+      11,
+      19,
+      2
+    ],
+    [
+      0,
+      0,
+      36
+    ]
+  ],
+  "official_ref": {
+    "acc": 0.726,
+    "auc": 0.885
+  }
+}

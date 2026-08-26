@@ -1,0 +1,102 @@
+{
+  "domain_centroid_dist_matrix": {
+    "ovary": {
+      "ovary": 0.0,
+      "testis": 28.615,
+      "retroperitoneum": 16.524,
+      "sacrococcyx": 14.057,
+      "mediastinum": 16.731,
+      "other": 21.92
+    },
+    "testis": {
+      "ovary": 28.615,
+      "testis": 0.0,
+      "retroperitoneum": 32.981,
+      "sacrococcyx": 22.346,
+      "mediastinum": 27.494,
+      "other": 29.917
+    },
+    "retroperitoneum": {
+      "ovary": 16.524,
+      "testis": 32.981,
+      "retroperitoneum": 0.0,
+      "sacrococcyx": 19.399,
+      "mediastinum": 12.353,
+      "other": 34.831
+    },
+    "sacrococcyx": {
+      "ovary": 14.057,
+      "testis": 22.346,
+      "retroperitoneum": 19.399,
+      "sacrococcyx": 0.0,
+      "mediastinum": 16.633,
+      "other": 21.265
+    },
+    "mediastinum": {
+      "ovary": 16.731,
+      "testis": 27.494,
+      "retroperitoneum": 12.353,
+      "sacrococcyx": 16.633,
+      "mediastinum": 0.0,
+      "other": 31.876
+    },
+    "other": {
+      "ovary": 21.92,
+      "testis": 29.917,
+      "retroperitoneum": 34.831,
+      "sacrococcyx": 21.265,
+      "mediastinum": 31.876,
+      "other": 0.0
+    }
+  },
+  "domain_spread": {
+    "ovary": 27.020577568221405,
+    "testis": 24.140715406022455,
+    "retroperitoneum": 27.247854864794604,
+    "sacrococcyx": 24.531359242858404,
+    "mediastinum": 30.805256614687966,
+    "other": 20.2985360114961
+  },
+  "per_lodo_test_dist": {
+    "ovary": {
+      "pca_components": 54,
+      "test_to_train_centroid_mean": 33.503,
+      "test_to_train_centroid_median": 28.033,
+      "train_spread_median": 25.699
+    },
+    "testis": {
+      "pca_components": 55,
+      "test_to_train_centroid_mean": 43.786,
+      "test_to_train_centroid_median": 42.543,
+      "train_spread_median": 25.244
+    },
+    "retroperitoneum": {
+      "pca_components": 61,
+      "test_to_train_centroid_mean": 34.523,
+      "test_to_train_centroid_median": 29.331,
+      "train_spread_median": 25.909
+    },
+    "sacrococcyx": {
+      "pca_components": 59,
+      "test_to_train_centroid_mean": 26.734,
+      "test_to_train_centroid_median": 24.835,
+      "train_spread_median": 26.288
+    },
+    "mediastinum": {
+      "pca_components": 68,
+      "test_to_train_centroid_mean": 82.769,
+      "test_to_train_centroid_median": 22.293,
+      "train_spread_median": 27.794
+    }
+  },
+  "internal_test_baseline_mean": 45.293,
+  "internal_test_baseline_median": 28.528,
+  "internal_test_outliers": [
+    "MT_345",
+    "IT_102",
+    "IT_090"
+  ],
+  "rare_domain_dist": 31.029,
+  "pca_components_95pct_all": 63,
+  "note": "距离=PCA95空间欧氏距离(StandardScaler后), median为主指标(mean被离群拉高); 外部验证为不同口径"
+}

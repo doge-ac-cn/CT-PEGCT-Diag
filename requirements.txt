@@ -1,0 +1,13 @@
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+scipy>=1.10
+nibabel>=5.1
+SimpleITK>=2.2
+pyradiomics>=3.0.1
+torch>=2.0
+torchvision>=0.15
+matplotlib>=3.6
+seaborn>=0.12
+# nnU-Net v2 (official package) is required for the segmentation step:
+#   pip install nnunetv2

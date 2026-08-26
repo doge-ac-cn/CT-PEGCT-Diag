@@ -1,0 +1,14 @@
+{
+  "brier_per_class": {
+    "MT": 0.08693208071327937,
+    "IT": 0.08438902128648668,
+    "MGCT": 0.025242524219886656
+  },
+  "prevalence": {
+    "MT": 0.6476683937823834,
+    "IT": 0.16580310880829016,
+    "MGCT": 0.18652849740932642
+  },
+  "dca": "experiments/feature_dca/dca.png",
+  "calibration": "experiments/feature_dca/calibration.png"
+}

@@ -1,0 +1,3848 @@
+[
+  {
+    "stem": "MT_152",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_381",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_237",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_410",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_165",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_262",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_002",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_253",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_236",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_221",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_318",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_015",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_026",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_153",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_127",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_189",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_031",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_011",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_103",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_068",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_126",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_140",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_395",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_013",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_297",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_081",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_251",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_249",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_109",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_330",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_096",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_357",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_131",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_205",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_034",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_241",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_092",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_360",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_207",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_378",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_403",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_147",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_319",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_012",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_282",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_274",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_027",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_313",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_336",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_323",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_338",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_134",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_110",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_392",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_217",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_379",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_204",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_183",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_010",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_077",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_197",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_222",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_070",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_209",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_350",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_048",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_322",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_298",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_252",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_320",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_325",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_071",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_058",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_365",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_106",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_331",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_308",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_045",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_368",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_041",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_073",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_162",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_286",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_188",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_284",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_177",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_038",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_213",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_415",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_170",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_382",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_192",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_302",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_333",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_242",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_116",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_060",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_266",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_376",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_335",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_362",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_232",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_256",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_344",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_250",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_231",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_216",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_374",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_270",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_163",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_001",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_292",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_327",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_151",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_061",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_039",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_214",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_146",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_228",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_043",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_115",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_208",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_184",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_273",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_145",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_275",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_149",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_276",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_388",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_215",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_300",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_099",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_255",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_408",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_414",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_371",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_400",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_082",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_122",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_123",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_158",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_271",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_240",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_238",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_065",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_354",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_154",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_306",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_390",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_245",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_160",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_074",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_135",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_225",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_064",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_377",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_036",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_171",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_346",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_369",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_114",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_173",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_051",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_239",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_088",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_397",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_265",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_142",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_104",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_316",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_312",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_033",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_257",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_218",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_091",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_259",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_003",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_291",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_342",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_260",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_355",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_315",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_304",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_136",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_022",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_053",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_113",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_063",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_370",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_172",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_212",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_100",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_243",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_017",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_040",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_090",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_269",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_296",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_299",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_167",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_366",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_219",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_375",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_290",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_361",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_144",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_161",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_029",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_391",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_047",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_202",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_194",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_087",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_157",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_111",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_348",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_261",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_226",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_293",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_124",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_309",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_246",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_069",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_067",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_141",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_179",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_407",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_203",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_102",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_339",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_107",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_187",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_118",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_321",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_305",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_409",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_059",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_200",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_384",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_283",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_233",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_080",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_019",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_311",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_373",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_008",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_359",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_186",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_148",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_150",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_049",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_078",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_128",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_277",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_358",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_363",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_196",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_254",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_380",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_230",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_393",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_387",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_401",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_402",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_310",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_349",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_155",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_279",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_224",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_024",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_193",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_018",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_035",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_075",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_021",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_278",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_220",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_288",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_314",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_405",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_345",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_054",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_072",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_079",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_178",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_334",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_086",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_248",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_258",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_263",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_227",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_009",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_168",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_337",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_057",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_112",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_007",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_343",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_210",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_383",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_289",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_294",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_199",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_326",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_076",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_032",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_229",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_264",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_201",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_413",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_412",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_016",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_386",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_025",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_396",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_244",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_062",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_234",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_347",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_191",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_341",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_340",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_176",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_329",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_066",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_272",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_004",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_095",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_372",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_006",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_175",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_190",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_180",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_206",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_037",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_367",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_133",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_195",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_164",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_287",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_235",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_097",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_156",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_020",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_139",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_108",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_042",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_182",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_101",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_105",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_052",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_120",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_280",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_137",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_324",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_307",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_083",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_404",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_268",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_211",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_130",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_121",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_385",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_138",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_351",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_174",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_353",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_089",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_301",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_005",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_328",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_056",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_085",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_332",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_285",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_317",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_399",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_125",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_281",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_084",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_356",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_169",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_119",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_364",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_398",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_185",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_198",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_117",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_166",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_352",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_295",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_093",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_014",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_129",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_143",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_223",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_050",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_023",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_030",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_098",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_181",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_303",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_046",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_055",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_267",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_406",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_394",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_159",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_389",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_044",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_247",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_028",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "test"
+  },
+  {
+    "stem": "MT_094",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "MT_132",
+    "cat": "MTs",
+    "cls": 0,
+    "split": "train"
+  },
+  {
+    "stem": "IT_064",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_023",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_030",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_016",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_072",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_027",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_010",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_037",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_065",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_048",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_031",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_040",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_026",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_104",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_002",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_067",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_049",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_061",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_011",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_066",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_025",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_054",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_063",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_098",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_022",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_007",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_100",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_096",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_044",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_101",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_068",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_006",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_089",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_058",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_046",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_091",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_004",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_008",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_102",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_099",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_077",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_052",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_005",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_084",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_055",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_073",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_047",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_075",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_019",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_033",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_078",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_018",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_001",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_105",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_053",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_092",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_045",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_024",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_103",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_087",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_020",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_070",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_032",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_069",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_097",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_074",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_012",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_095",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_036",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_009",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_086",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_041",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_094",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_081",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_079",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_028",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_034",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_082",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_059",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_051",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_088",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_035",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_093",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_060",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_050",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_085",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_083",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_062",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_021",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_029",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_080",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_038",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_042",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_043",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_076",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_014",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_071",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_056",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_106",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_003",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_057",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_090",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_017",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "test"
+  },
+  {
+    "stem": "IT_015",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_039",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "IT_013",
+    "cat": "ITs",
+    "cls": 1,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_070",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_003",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_009",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_113",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_005",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_001",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_048",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_025",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_033",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_024",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_036",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_118",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_100",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_066",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_087",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_028",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_080",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_078",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_014",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_042",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_067",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_051",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_063",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_059",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_112",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_082",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_110",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_018",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_006",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_050",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_010",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_104",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_023",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_076",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_044",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_012",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_069",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_073",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_108",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_032",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_099",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_115",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_106",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_029",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_043",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_016",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_094",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_077",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_107",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_007",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_105",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_111",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_054",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_096",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_053",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_040",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_026",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_101",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_047",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_081",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_109",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_093",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_022",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_097",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_027",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_034",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_002",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_068",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_057",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_011",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_074",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_008",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_061",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_049",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_019",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_114",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_046",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_084",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_038",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_120",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_072",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_039",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_058",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_079",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_119",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_021",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_030",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_086",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_013",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_071",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_060",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_098",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_075",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_056",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_031",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_116",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_020",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_092",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_085",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_103",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_041",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_004",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_035",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_083",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_017",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_037",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_065",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_090",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_062",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_121",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_089",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_095",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_064",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_045",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_015",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_088",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_102",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_091",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_122",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  },
+  {
+    "stem": "MGCT_052",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "train"
+  },
+  {
+    "stem": "MGCT_055",
+    "cat": "MGCTs",
+    "cls": 2,
+    "split": "test"
+  }
+]

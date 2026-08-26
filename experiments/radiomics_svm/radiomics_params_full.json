@@ -1,0 +1,27 @@
+{
+  "setting": {
+    "binWidth": 25,
+    "resampledPixelSpacing": [
+      1,
+      1,
+      1
+    ],
+    "interpolator": "sitkBSpline",
+    "normalize": false,
+    "label": 1,
+    "additionalInfo": false
+  },
+  "imageType": {
+    "Original": {},
+    "Wavelet": {},
+    "LoG": {
+      "sigma": [
+        1.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0
+      ]
+    }
+  }
+}
