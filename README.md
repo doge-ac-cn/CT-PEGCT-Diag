@@ -1,8 +1,7 @@
 # CT Density Composition Differentiates Pediatric Extracranial Germ Cell Tumors
 
 **Mechanism-first radiomics study with automated segmentation** — code and
-reproducibility package accompanying the manuscript submitted to
-*European Radiology*.
+reproducibility package accompanying the manuscript.
 
 ## Overview
 
