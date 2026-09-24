@@ -90,12 +90,14 @@ for vox, color, lab, ls in [(it_vox, C_IT, f'IT (n=6, median {np.median(it_vox):
     k = gaussian_kde(vox[:: max(1, len(vox) // 200000)])
     ax.plot(xgrid, k(xgrid), color=color, label=lab, ls=ls, lw=1.6)
     ax.fill_between(xgrid, k(xgrid), alpha=0.18, color=color)
-ax.axvline(15.5, color='gray', ls=':', lw=1.2)
-ax.text(15.5, ax.get_ylim()[1] * 0.95 if False else 0.011, '15.5 HU', fontsize=8, color='gray', ha='center')
+ax.axvline(15.5, color='gray', ls=':', lw=1.2, label='15.5 HU threshold')
 ax.set_xlabel('CT density (HU)')
 ax.set_ylabel('Density')
 ax.set_title('(B) Mediastinal IT vs MT HU')
-ax.legend(fontsize=8.5, frameon=False)
+# legend upper-left keeps all three entries clear of the threshold line;
+# the standalone gray "15.5 HU" text was removed because it collided with
+# the legend and the KDE peak when placed at (15.5, 0.011).
+ax.legend(fontsize=8.5, frameon=False, loc='upper left')
 ax.set_xlim(-100, 120)
 
 # ---- (C) Mediastinal IT recall by dimension ----
@@ -109,7 +111,8 @@ ax.set_ylabel('Mediastinal IT recall')
 ax.set_title('(C) Recall by input dimension')
 for i, r in enumerate(recalls):
     ax.text(i, r + 0.03, f'{r:.1f} (3/6)', ha='center', fontsize=10)
-ax.text(0.5, 0.15, 'n=6; Wilson CI 0.12–0.88', ha='center', fontsize=8, color='gray')
+ax.text(0.5, 0.15, 'n=6; Wilson CI 0.12–0.88', ha='center', fontsize=8, color='gray',
+        bbox=dict(boxstyle='round,pad=0.25', facecolor='white', edgecolor='none', alpha=0.85))
 
 plt.tight_layout()
 plt.savefig(f'{OUT}/fig7.png', dpi=300, bbox_inches='tight')
